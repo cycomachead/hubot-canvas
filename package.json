@@ -17,7 +17,7 @@
   },
 
   "dependencies": {
-    "coffee-script": "~1.6"
+    "canvas-lms": "latest"
   },
 
   "devDependencies": {
